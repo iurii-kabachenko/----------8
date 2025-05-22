@@ -1,0 +1,14 @@
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\PRakt8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\PRakt8.AssemblyInfoInputs.cache
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\PRakt8.AssemblyInfo.cs
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\PRakt8.csproj.CoreCompileInputs.cache
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\bin\Debug\net8.0\PRakt8.exe
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\bin\Debug\net8.0\PRakt8.deps.json
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\bin\Debug\net8.0\PRakt8.runtimeconfig.json
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\bin\Debug\net8.0\PRakt8.dll
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\bin\Debug\net8.0\PRakt8.pdb
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\PRakt8.dll
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\refint\PRakt8.dll
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\PRakt8.pdb
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\PRakt8.genruntimeconfig.cache
+C:\Users\ykaba\source\repos\PRakt8\PRakt8\obj\Debug\net8.0\ref\PRakt8.dll
